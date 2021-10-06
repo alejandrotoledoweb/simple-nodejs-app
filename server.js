@@ -2,7 +2,7 @@ const http = require('http');
 var fs = require('fs');
 const url = require('url');
 
-const port = 8080;
+const port = 7070;
 
 const server = http.createServer((req, res) => {
   // res.statusCode = 200

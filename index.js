@@ -20,5 +20,5 @@ app.get('/contact', function(req, res){
 })
 
 app.listen(port, () => { 
-  console.log("App is running!...")
+  console.log("App is running on port:" + port)
 })
