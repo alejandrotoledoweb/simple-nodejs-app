@@ -38,3 +38,26 @@ Run the command
 
 this will open the server in port `localhost:7070`
 
+## Author
+
+👤 **Alejandro Toledo**
+
+- GitHub: [@alejandrotoledoweb](https://github.com/alejandrotoledoweb)
+- Twitter: [@alejot](https://twitter.com/alejot) 
+- LinkedIn: [Alejandro Toledo](https://www.linkedin.com/in/alejandro-toledo-3b444b109/) 
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
